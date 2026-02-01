@@ -3,7 +3,7 @@ export default function OnboardingPage() {
         <div className="flex min-h-screen items-center justify-center p-8 bg-zinc-50 dark:bg-black">
             <div className="w-full max-w-md p-8 border rounded-lg bg-white dark:bg-zinc-900 shadow-lg">
                 <h1 className="text-2xl font-bold mb-2">Welcome to BeeSocial</h1>
-                <p className="text-muted-foreground mb-6">Let's set up your brand profile.</p>
+                <p className="text-muted-foreground mb-6">Let&apos;s set up your brand profile.</p>
 
                 <form className="space-y-4">
                     <div>
